@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/google-drive/static/css/main.9279966a.css",
+    "main.js": "/google-drive/static/js/main.006d2705.js",
+    "index.html": "/google-drive/index.html",
+    "main.9279966a.css.map": "/google-drive/static/css/main.9279966a.css.map",
+    "main.006d2705.js.map": "/google-drive/static/js/main.006d2705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9279966a.css",
+    "static/js/main.006d2705.js"
+  ]
+}
